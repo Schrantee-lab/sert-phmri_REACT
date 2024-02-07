@@ -1,7 +1,7 @@
 # sert-phmri_REACT
 This folder contains all code associated with the manuscript of Boucherie et al. (2023), which was published in Journal of Psychopharmacology. 
-You can find this manuscript here:
-It was previously published as a preprint, which can be found here:
+You can find this manuscript here: https://journals.sagepub.com/doi/epub/10.1177/02698811231211154
+It was previously published as a preprint, which can be found here: https://www.biorxiv.org/content/10.1101/2022.10.20.512503v3
 
 # Main batch script and file descriptions
 The file Main_script_REACT_sert-phMRI.sh contains all relevant steps for the analysis. This script is divided into two parts:
