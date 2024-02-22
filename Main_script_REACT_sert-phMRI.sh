@@ -267,9 +267,8 @@ done
 
 
 ### 2.3 FSL fake registration ###
-for sub in `ls -d sub-???`; do #
-./$scriptdir/fsl_fake_reg.sh $maindir/$sub/*.feat
-done
+
+# See ReadMe file
 
 #########################
 ### Step 3: Randomise ###
