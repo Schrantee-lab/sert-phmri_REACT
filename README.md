@@ -9,9 +9,9 @@ The file Main_script_REACT_sert-phMRI.sh contains all relevant steps for the ana
 - Part 2: task-based fMRI PPI analysis
 
 In the script, several other files are called. 
-For the rs-fMRI analysis, this is the script used for postprocessing (after fMRIprep): Postprocessing_rsfmri.sh
+For the rs-fMRI analysis, this is the script used for postprocessing (after fMRIprep): Postprocessing_rsfmri.sh This script is adapted from code from Multinetlab (https://github.com/multinetlab-amsterdam)
 
 For the tb-fMRI analysis, these are the scripts used for:
-- postprocessing (Postprocessing_tbfmri.sh);
+- postprocessing (Postprocessing_tbfmri.sh; code adapted from MultiNetLab (https://github.com/multinetlab-amsterdam))
 - First-level PPI analysis design in FSL Feat (PPI_REACT_5HT1A_SERT.fsf);
-- fake registration after the first-level PPI analysis in Feat (fsl_fake_reg.sh) (https://www.youtube.com/watch?v=U3tG7JMEf7M)
+- fake registration after the first-level PPI analysis in Feat was done in accordance with this tutorial: https://www.youtube.com/watch?v=U3tG7JMEf7M)
