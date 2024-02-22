@@ -14,4 +14,4 @@ For the rs-fMRI analysis, this is the script used for postprocessing (after fMRI
 For the tb-fMRI analysis, these are the scripts used for:
 - postprocessing (Postprocessing_tbfmri.sh);
 - First-level PPI analysis design in FSL Feat (PPI_REACT_5HT1A_SERT.fsf);
-- fake registration after the first-level PPI analysis in Feat (fsl_fake_reg.sh).
+- fake registration after the first-level PPI analysis in Feat (fsl_fake_reg.sh) (https://www.youtube.com/watch?v=U3tG7JMEf7M)
